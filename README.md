@@ -1,7 +1,7 @@
-# Prediciting Winning Team EPL
+# Fraud Detection Using Autoencoders
 
-Predicting the Winning Team for Football Matches using a Deep Neural Network Classifier
+Credit Card Fraud Detection using Machine Learning
 
 # Overview
-The project involves predicting the outcome of a football game: Home Win, Away Win or Draw given a set of statistics. The dataset for this was retrieved from https://datahub.io, Feature Engineering has been done on the dataset as seen on final_dataset.csv. 
-The test case was performed on all the games of the 2017/2018 English Premier League season.
+This project focuses on using a neural network called an autoencoder to detect fraudulent credit/debit card transactions on a Kaggle dataset which can be found here: https://www.kaggle.com/mlg-ulb/creditcardfraud/data#creditcard.csv
+
